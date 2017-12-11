@@ -1,5 +1,5 @@
 #!/bin/bash
 
-gitbook build
-cp -r _book/* .
-rm -rf _book
+gitbook build _src
+cp -r _src/_book/* .
+rm -rf _src/_book
