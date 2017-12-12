@@ -1,12 +1,15 @@
 {
     "title": "IML-CN community",
     "links": {
-    "gitbook": false,
-    "sharing": {
-        "google": false,
-        "facebook": false,
-        "twitter": false,
-        "all": false
+	"gitbook": false,
+	"sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "all": false
+	}
+    },
+    "styles": {
+        "website": "styles/website.css"
     }
-  }
 }
