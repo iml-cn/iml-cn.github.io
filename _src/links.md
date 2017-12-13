@@ -9,3 +9,9 @@
 * Software
   * [Tensorflow](https://www.tensorflow.org/)
   * [Keras](https://keras.io/)
+* CS, Stanford University
+  * [Deep Learning](http://deeplearning.stanford.edu)
+  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
+  * [CS 20SI: Tensorflow for Deep Learning Research
+](https://web.stanford.edu/class/cs20si/)
+
